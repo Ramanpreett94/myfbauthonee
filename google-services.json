@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "666224720741",
+    "firebase_url": "https://myfbauthone-6412c.firebaseio.com",
+    "project_id": "myfbauthone-6412c",
+    "storage_bucket": "myfbauthone-6412c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666224720741:android:82542a28507ef251",
+        "android_client_info": {
+          "package_name": "com.xyzco.myfbauthone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666224720741-405eeava3n1khndfgqbqvqonprkn0ip4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fpuXSUn8VUN4LHHmR8URdCUkNU2R3xw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
